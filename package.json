@@ -1,0 +1,17 @@
+{
+  "name": "Edit-ID3-Tags-Mp3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start":"node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "browser-id3-writer": "^4.1.0"
+  }
+}
